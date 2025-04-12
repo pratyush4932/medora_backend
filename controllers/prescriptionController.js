@@ -1,6 +1,6 @@
 // In your prescription controller file
 
-const Prescription = require('../models/prescription');
+const Prescription = require('../models/Prescription');
 const AISummarizer = require('../utils/aiSummarizer');
 const qrcode = require('qrcode');
 
